@@ -11,7 +11,12 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/darshan/Downloads/JARs/JARs/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darshan/Downloads/JARs/JARs/hibernate-c3p0-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darshan/Downloads/JARs/JARs/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darshan/Downloads/JARs/JARs/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darshan/Downloads/JARs/JARs/hibernate-entitymanager-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darshan/Downloads/JARs/JARs/log4j-1.2.15.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
