@@ -15,7 +15,7 @@
 <td colspan="2" align="center">
 <h2><b>
 Hibernate CRUD </br>
-Select Your  Operation
+Select An  Operation
 </b></h2>
 </td>
 </tr>
