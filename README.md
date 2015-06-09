@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-in master readme
-=======
-
+stash check
