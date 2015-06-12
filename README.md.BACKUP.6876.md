@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-in master readme
-=======
-
